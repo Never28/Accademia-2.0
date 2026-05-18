@@ -1,0 +1,140 @@
+SET 01 - Non Morti & Topi Polli Mucche
+SET 02 - Mutaforma & Lizard
+SET 03 - Set del capobranco mutaforma
+SET 04 - Set di Axin
+SET 05 - Orchi & Goblin
+SET 06 - Goblin
+SET 07 - Orchi
+SET 08 - Non morti della cripta + boss
+SET 09 - Animali della Foresta & Bugbear
+SET 10 - Bugbear Capo
+SET 11 - Accampamento Goblin
+SET 12 - Accampamento Orchi
+SET 13 - Banditi
+SET 14 - Hobgoblin
+SET 15 - Banditi & Hobgoblin
+SET 16 - Ettin
+SET 17 - Giganti Colline
+SET 18 - Giganti Colline & Ettin
+SET 19 - Basilischi & Lupi Feroci e Lupi Vampiri
+SET 20 - Set di Mutamin
+SET 21 - Firewine (DA FARE)
+SET 22 - Regina Ragno
+SET 23 - Minotauri
+SET 24 - Ragni & Minotauri
+SET 25 - Gnoll
+SET 26 - Ogre
+SET 27 - Gnoll & Ogre
+SET 28 - Lupo Neve & Orso polare
+SET 29 - Troll
+SET 30 - Troll & Lupo Neve & Orso polare
+SET 31 - Coboldi
+SET 32 - Druidi Tenebroso
+SET 33 - Coboldi & Druidi Tenebrosi
+SET 34 - Formian
+SET 35 - Scorpioide
+SET 36 - Formian & Scorpioide
+SET 37 - Trogloditi
+SET 38 - Viverne
+SET 39 - Trogloditi & Viverne
+SET 40 - Replicanti
+SET 41 - Gelatine
+SET 42 - Replicanti & Gelatine
+SET 43 - Yuan Ti
+SET 44 - Lupi Mannari
+SET 45 - Yuan Ti & Lupi Mannari
+---------------------------------
+SET 46 -> Sahuagin Boss (Acque Tortuose) LV 31
+SET 47 -> Sahuagin delle Spiaggie Boss (Isola da Daggerford) LV 38 
+SET 48 -> Sahuagin delle Spiaggie + Sahuagin LV 31 (nelle rispettive aree dei boss)
+
+SET 49 -> Troll Viola Boss (Colline dei Troll) LV 32
+SET 50 -> Troll Blue Boss (Foresta dei Troll)  (un Campo tipo) LV 32
+SET 51 -> Troll Blu + Troll Viola LV 32 (nelle rispettive aree dei boss)
+
+SET 52 -> Non morto Boss (Campo dei Morti) LV 33
+SET 53 -> Cripta dei Creatori delle Meraviglie Boss (Scornubel) LV 33
+SET 54 -> Non morto + Golem LV 33 (nelle rispettive aree dei boss)
+
+SET 55 -> Lucertoloidi delle Paludi Boss (Palude delle Lucertole) LV 34
+SET 56 -> Bugbear Boss (Alta Brughiera) LV 34
+SET 57 -> Lucertoloidi delle Paludi + Bugbear LV 34 (nelle rispettive aree dei boss)
+
+SET 58 -> Satiro Boss (Colline Trielta) LV 35
+SET 59 -> Serpente Boss (Colline Serpenti) (in una Caverna tipo) LV 35
+SET 60 -> Satiri + Serpenti LV 35
+	
+SET 61 -> Rodon (dai picchi) LV 36
+SET 62 -> Bandito Boss dei Topi Mannari(Dungeon Hark - Alta Brughiera) LV 36
+SET 63 -> Briganti + Topi Mannari Lv 36
+
+SET 64 -> Elfi delle Colline Boss (Colline Mantogrigio) LV 37
+SET 65 -> Elfi dei Boschi Boss (Foresta Velata) LV 37
+SET 66 -> Elfi dei Boschi + Elfi delle Colline LV 37 (nelle rispettive aree dei boss)
+
+SET 67 -> Giganti della Pietra Boss (Montagne Picchigrigi) LV 37
+SET 68 -> Bulette Boss (Brughiera Solitaria) LV 37
+SET 69 -> Giganti + Bulette (nelle rispettive aree dei boss) LV 37
+
+SET 70 -> Orrore Corazzato Boss (Sale del Martello - Alta Brughiera/Lagostella) LV 38
+SET 71 -> Sfera di Controllo Boss (Colline dei Serpenti) (Dungeon delle Spade) LV 38
+SET 72 -> Orrori Corazzati + Spade LV 38
+
+SET 73 -> Elementali Acqua Boss (Acquitrino di Chelimber) LV 38
+SET 74 -> Elementali Terra Boss (Foresta Dimenticata) LV 38
+SET 75 -> Elementali Acqua + Elementali Terra LV 38 (nelle rispettive aree dei boss)
+
+SET 76 -> Gigante Gelo Boss (Picchi) LV 39
+SET 77 -> Giganti Nuvole Boss (Picchi) LV 39
+SET 78 -> Gigante Gelo + Gigante Nuvole LV 39 (nelle rispettive aree dei boss)
+
+Mod:
+
+---creature---
+set_57_*
+set_46_* in poi
+---dialoghi---
+
+---incontri---
+rov_che_*
+---aree---
+ext_che_acq
+dun_spa_*
+ext_col_ser_*
+ext_ver_dra
+ext_com_sou_1
+ext_for_dra_nov
+---oggetti---
+png_luc_*
+
+---script---
+mod_bas_loadmod
+---mercanti---
+
+
+
+Negozi: guerriero, mago, bardo, druido, chierico, paladino, arciere, ladro, monaco
+
+Soubar: fabbro (tagliente-leggera-amuleto-cintura), ladro, bardo
+Triel: fabbro (perforante-armor vestiti-mantello-stivale), monaco, arciere
+Elturel: fabbro (due mani-armor pesante-bracciali-elmo), paladino, druido
+Daggerford: fabbro(contundente-armor media-anelli-scudo), chierico, mago
+
+---SET Elementale dell'Acqua---
+Elementale dell'Acqua (set_75_eac)-> 40% Acqua Distillata (craft_75_eac) 10% Ascia del Gelo (craft_75_geam)
+Elementale dell'Acqua Maggiore (set_75_eam)-> 40% Acqua Distillata (craft_75_eac) 10% Bastone Acquatico (craft_75_eam)
+Elementale dell'Acqua Anziano (set_75_eaa)-> 40% Acqua Distillata (craft_75_eac) 10% Corona Elementale (craft_75_eaa)
+Elementale dell'Acqua Primordiale (Boss) (set_73_bos)-> 10% Essenza dell'Acqua (Boss)(craft_73_bos1) 40% Sfera Primordiale Acquatica (Boss)(craft_73_bos2) 50% Sangue Acido di Yian Garuga (Boss)(craft_73_bos3)
+
+
+Castello Dragonspear:
+Cripta dei Creatori di Meraviglie: (Lich, orrore corazzato, golem, divoratore di magia)
+Cripta dello Stregone (Cripta di Larloch):
+Dungeon dell'Hark (Alta brughiera settentrionale):
+Dungeon delle Spade: Colline dei Serpenti (spade magiche)
+Sale del Martello: Lago altastella (martello da guerra volante, orrori corazzati, sentinelle fantasma vaganti)
+Rhymanthiin: Alta brughiera.
+
+Elmo/Anello/Anello
+Armatura/Amuleto/Cintura
+Mantello/Bracciali/Stivali

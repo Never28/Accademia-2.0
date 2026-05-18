@@ -1,0 +1,85 @@
+BONUS DA ITEM
+
+COS - SAG -> Elmo, Anello 1, Anello 2
+CAR - INT -> Cinture, Amuleto, Armatura
+DES - FOR -> Stivali, Bracciali, Mantello 
+
+LV 	BONUSAC 	BONUSSPELL		BONUSSPELLBARD	BONUSSPELLRANPAL 	BONUSCAR	IMMUNITA	IMMUNITA SCUDO		ABILITA
+
+01	1		0/1			0		-			0		0%		0%			1
+
+06	2		0/1/2			0/1		1			0		5%		0%			1
+
+11	3		0/1/2/3			0/1/2		1			1		5%		5%			2
+
+16	3		0/1/2/3/4		0/1/2/3		1/2			1		10%		5%			2
+
+21	4		0/1/2/3/4/5		0/1/2/3		1/2			2		10%		5%			3
+
+26	5		0/1/2/3/4/5/6		0/1/2/3/4	1/2/3			2		15%		10%			3
+
+31	5		0/1/2/3/4/5/6/7		0/1/2/3/4	1/2/3			3		15%		10%			4
+
+36	6		0/1/2/3/4/5/6/7/8	0/1/2/3/4/5	1/2/3/4			3		20%		10%			4
+
+40	7		0/1/2/3/4/5/6/7/8/9	0/1/2/3/4/5/6	1/2/3/4			4		25%		15%			5
+
+
+Immunita:
+Tagliente -> armor/scudo
+Perforante -> armor/scudo
+Contundente -> armor/scudo 
+Fuoco -> elmo
+Freddo -> mantello
+Acido -> amuleto
+Sonico -> Amuleto
+Elettrico -> cintura
+Negativo -> bracciali
+Positivo -> bracciali
+Divino -> stivali
+Magico -> stivali
+
+TABELLA TS E RIGENERAZIONI (per TS Armor,cintura,amuleto,stivali,bracciali) (RIG anelli, elmo. mantello)
+
+LV	TSseNonCaster	TSCASTER	RIGENERAZIONEWAR	RIGENERAZIONECASTER	
+
+01	0		0		0			0
+
+06	0		0		0			0
+
+11	1		0		1			0
+		
+16 	1		0		1			0
+
+21	2		1		2			1
+
+26	2		1		2			1
+
+31	3		2		3			2
+
+36	3		2		3			2
+
+40	4		2		4			2
+
+N.B GLI ANELLI NON DANNO RIDUZIONE SE NO SAREBBERO DOPPIABILI
+
+LV 	BONUSAT 	BONUSDANNI (Uno elementale uno divino)
+
+01	1		1	
+	
+06	2		1d2
+		
+11	3		1d4 -> da qui sempre affilate	
+
+16	4		1d6		
+
+21	5		1d8		
+
+26	6		2d4		
+
+31	7		1d10
+	
+36	8		1d12
+
+40	10		1d20
+

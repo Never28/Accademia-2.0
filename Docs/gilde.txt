@@ -1,0 +1,23 @@
+FAZIONE DEL BENE
+
+1) Ordine del Corno dell'Unircordo -> Ranger, Druidi, Mutaforma (Argento, Verde Acqua Chiaro)
+2) Arpisti -> Bardi, Esploratori Arpisti, Arcieri Arcani (Argento, Blu Chiaro)
+3) Ordine del Cuore Radioso -> Paladini, Campioni di Torm, Difensori Naneschi (Argento, Bordeaux Chiaro)
+4) Ordine di Lathander -> Chierici (Argento, Oro Chiaro)
+5) Mano Splendente -> Monaci (Argento, Viola Chiaro)
+6) Ordine di Bahamut -> Discepoli del Drago (Argento, Bianco)
+7) Eletti di Mystra -> Maghi e Stregoni (Argento, Blu Chiaro)
+8) Seguaci del Libero Arbitrio -> Ladri, Ombre Danzanti (Argento, Marrone Chiaro)
+9) Pugno Fiammante -> Guerrieri, Cavalieri dei Draghi Purpurei, Barbari, Maestri d'Arme (Argento, Rosso Chiaro)
+
+FAZIONE DEL MALE
+
+1) Seguaci dell'Epidemia -> Ranger, Druidi, Mutaforma (Nero, Verde Acqua Scuro)
+2) Zhentarim -> Bardi, Arcieri Arcani, Maestri d'Arme (Nero, Blu Scuro)
+3) Trono di Ferro -> Guerrieri, Guardie Nere, Difensori Naneschi (Nero, Bordeaux Scuro) 
+4) Ordine di Talos -> Chierici (Nero, Oro Scuro) 
+5) Monaci della Lunga Morte -> Monaci (Nero, Viola Scuro) 
+6) Ordine di Tiamat -> Discepoli del Drago (Nero, Grigio)
+7) Stregoni Incapucciati -> Maghi e Stregoni (Nero, Blu Scuro)
+8) Ladri Tenebrosi -> Ladri, Assassini, Ombre Danzanti (Nero, Marrone Scuro)
+9) Ordine di Velsharoon -> Signori Pallidi, Barbari (Nero, Rosso Scuro)
