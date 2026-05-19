@@ -1,0 +1,586 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_arc"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_chi"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_chi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_dru"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_dru"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_lad"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_lad"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_mon"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mon"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_tav"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_tav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "bal_wiz"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "ber_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "ber_lad"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_lad"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "ber_mon"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_mon"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "ber_tav"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_tav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "can_acc"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_acc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "can_arc"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "can_dru"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_dru"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "can_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "can_tav"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_tav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "can_wiz"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "dag_chi"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "dag_chi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "dag_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "dag_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "dag_wiz"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "dag_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "elt_dru"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "elt_dru"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "elt_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "elt_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "elt_pal"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "elt_pal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "loc_arc"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "loc_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "loc_dru"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "loc_dru"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "loc_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "loc_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "loc_mon"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "loc_mon"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "loc_tav"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "loc_tav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "loc_wiz"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "loc_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "mod_baz"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mod_baz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "nas_arc"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "nas_dru"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_dru"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "nas_tav"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_tav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "nas_wiz"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "neg_ber_chi"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "neg_ber_chi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "neg_can_chi"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "neg_can_chi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "neg_loc_chi"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "neg_loc_chi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "neg_nas_chi"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "neg_nas_chi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "sou_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sou_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "sou_lad"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sou_lad"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "sou_tav"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sou_tav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "tri_arc"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tri_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "tri_fab"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tri_fab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "tri_mon"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tri_mon"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6789
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2348 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 8
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Brigante Elfo x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cov_ban_bel"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Brigante Gnomo x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cov_ban_bgn"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Brigante Nano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cov_ban_bna"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Brigante Umano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cov_ban_bum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Briganti Misti"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cov_ban_bmi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Elementale dell'Acqua Anziano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rov_che_eaa"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Elementale dell'Acqua Maggiore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rov_che_eam"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Elementale dell'Acqua x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rov_che_eac"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gigante del Gelo Femmina x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ghi_pic_ggf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gigante del Gelo Maschio x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ghi_pic_ggm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gigante del Gelo Maschio/Femmina/Stregone"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ghi_pic_gfs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gigante del Gelo Stregone x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ghi_pic_ggs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "gro_sah_sac"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin delle Spiagge Cacciatore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_sah_ssc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin delle Spiagge Tiratore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_sah_sst"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin delle Spiagge x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_sah_ssp"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin delle Spiagge/Cacciatore/Tiratore"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_sah_sct"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin Sacerdote x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "gro_sah_sas"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "gro_sah_sah"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sahuagin/Capitano/Sacerdote"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "gro_sah_scs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll della Fanghiglia Condottiero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_tro_tfc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll della Fanghiglia Mago x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_tro_tfm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll della Fanghiglia x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_tro_tfa"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll della Fanghiglia/Condottiero/Mago"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_tro_tcm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll delle Profondità Difensore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_tro_tvd"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll delle Profondità Stregone x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_tro_tvs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll delle Profondità x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_tro_tvi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll delle Profondità/Difensore/Stregone"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_tro_tds"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5546
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5547
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Coboldo Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cas_abb_cco"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Coboldo Chierico x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cas_abb_chc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Coboldo Tenente x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cas_abb_tco"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Coboldo x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cas_abb_cob"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Coboldo/Capitano/Chierico"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cas_abb_ccc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Coboldo/Capitano/Tenente"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cas_abb_cct"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Cubo Gelatinoso x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_fog_cub"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Doppelganger Infiltrato x1"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mer_diu"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Doppelganger Infiltrato x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mer_din"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Doppelganger x1"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mer_dou"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Doppelganger x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mer_dop"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Doppelganger Zen x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mer_dze"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Doppelganger/Zen/Infiltrato"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_mer_dzi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gelatina Cubo Gelatinoso/Geltaina Ocra Media/Grande"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_fog_cgm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gelatina Ocra Grande x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_fog_geg"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gelatina Ocra Media x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_fog_gem"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gelatina Ocra Piccola x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bal_fog_gep"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo delle Nevi Feroce x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_sen_lnf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo delle Nevi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_sen_lun"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Mannaro Furioso x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_wer_lmf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Mannaro Lupo x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_wer_lml"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Mannaro x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_wer_lma"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Mannaro/Lupo/Furioso"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "iso_wer_mlf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orso Polare Anziano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_opa"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orso Polare x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_opo"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troglodita Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_tro_tca"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troglodita Chierico x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_tro_tch"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troglodita x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_tro_tro"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troglodita/Capitano/Chierico"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_tro_tcc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Cacciatore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_tca"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Comandante x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_tco"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Comandante/Guardiano/Mago"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_cgm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Guardiano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_tga"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_tgu"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Guerriero/Cacciatore/Mago"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_gcm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Troll Mago x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "acc_tro_tma"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Viverna Adulta x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tan_viv_vad"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Viverna Cucciola x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tan_viv_vcu"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Viverna Giovane x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tan_viv_vgi"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Viverna Giovane/Viverna Adulta x2 "
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tan_viv_vga"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Yuan-ti Abominio x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "far_abb_yab"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Yuan-ti Mezzosangue x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "far_abb_yme"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Yuan-ti Sanguepure/Mezzosangue/Abominio"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "far_abb_sma"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Yuan-ti Sanguepuro x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "far_abb_ysa"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 4817
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Allip x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_all"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Arciere x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bua"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Elite x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bue"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Eroe x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_buh"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bus"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Sciamano/Arciere/Normale"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Sciamano/Elite/Eroe"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bux"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bug"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Falco / Lupo / Tasso"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_flt"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Falco x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_fal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Galline Assassine x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_ass_gal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ghoul x2 Allip x1"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_g_a"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Arciere x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin C/M/W"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_caw"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_cap"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin G/A/W"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_gaw"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Giganti x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_leo_gob"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Mago x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Balestriere x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_bal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_cap"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Guerriero x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_gue"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Ranger x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_ran"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Sciamano x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_lsc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_lup"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mucca Assassine x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_ass_muc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mucca x1 Galline Assassine x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_ass_g_m"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mummia x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_mum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mutaforma U/H/M"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "gro_mut_uhm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ombre x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_omb"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orchi Giganti x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_leo_orc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco S/G/T "
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_sgt"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_sci"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Tiratore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_tir"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Veterano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_cap"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Puma x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_pum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ratto x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cas_rat"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro Mago x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro S/M/G"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_smg"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro Sacerdote x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_sac"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_sch"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Tassi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_tas"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Zombie Guerriero x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_zog"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Zombie Tiranno della Nebbia x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_zot"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Zombie x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_zom"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5543
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 7
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Banditi Elfi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_loc_elf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Banditi Halfling x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_loc_hal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Banditi Mezzelfi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_loc_mez"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Banditi Misti"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_loc_mis"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Banditi Umani x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_loc_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Basilisco Maggiore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_des_bam"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Basilisco x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_des_bas"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ettin delle Colline Elite x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_gig_ece"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ettin delle Colline x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_gig_eco"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Giganti delle Colline Elite x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_gig_gce"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Giganti delle Colline x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_gig_gco"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Arciere x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Guardiano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_gua"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_gue"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Guerriero/Arciere/Sfregiatore"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_gas"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_sci"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Sfregiatore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_sfr"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gnoll Sfregiatore/Guardiano/Sciamano"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "for_gno_sgs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Hobgoblin Barbaro x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bos_den_bar"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Hobgoblin Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bos_den_agu"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Hobgoblin Guerriero/Barbaro/Sciamano"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bos_den_gbs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Hobgoblin Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bos_den_sci"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Feroce x2/Lupo Vampiro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_dir_nas"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Feroce x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_dir_luf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupo Vampiro x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ber_dir_luv"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Minotauro Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_mic"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Minotauro Capitano/Sciamano/Distruttore"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_mds"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Minotauro Distruttore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_mid"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Minotauro Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_mis"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Minotauro x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_min"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ogre Barbaro x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "val_ogr_oba"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ogre Barbaro/Chierico/Stregone"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "val_ogr_bcs"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ogre Chierico x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "val_ogr_och"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ogre Stregone x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "val_ogr_ost"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ragno Crudele x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_rac"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ragno delle Caverne x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_rav"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ragno Fase x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_raf"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ragno Fase/Gigante x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_ram"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ragno Fase/Gigante/Crudele"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_ras"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ragno Gigante x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "nas_cav_rag"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5545
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Axin Mago dei Lizard  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ter_liz_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Aztarok  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_bug_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Capobranco Mutaforma  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gro_mut_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Hurloon Capo Minotauro (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_min_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Kiki-Jiki (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "str_leo_orc_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Lupo Capobranco (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_lup_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mutanim il Pazzo (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ber_des_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ratto Crudele (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "can_cas_rat_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Regina Ragno (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_rag_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sek'Kuar (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "str_leo_gob_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Settra (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "can_cri_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Skarsnik (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_gob_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Uruk  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_orc_bos"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Capo degli Hobgoblin (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ten_hob_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Crusher Capo dei Lizard (Miniboss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ter_liz_mb1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Distruttore delle Caverne  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_gig_bo2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Grom (Miniboss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_bug_mb1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ingot Capo degli Gnoll (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "for_gno_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ogre Mago Supremo (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "pal_ogr_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Okling il Furioso (Miniboss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_min_mbo"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Signore delle Caverne  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_gig_bo1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Taugosz Khosann (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ten_taz_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Truraw Discepolo Mago dei Lizard (Miniboss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ter_liz_mb2"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Cubo Gelatinoso Enorme (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "lab_bal_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Epxin Comandante dei Coboldi (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cas_abb_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ixidor il Millevolti (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bal_mer_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Kershalt, Re dei Troll  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "acc_tro_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Lupo Mannaro (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "iso_wer_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Orso Polare Antico  (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "nas_cor_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Troglodita Boss (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cav_tro_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Tsuchinoko no Orochi (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "far_abb_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Viverna Antica (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "tan_viv_bos"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Elementale dell'Acqua Primordiale (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "rov_che_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Enghart Signora dei Ghiacci (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ghi_pic_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Iakhovas Eletto di Sekolah (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gro_sah_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Rodon Mano Silente (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cov_ban_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Skalmad il Sanguinario (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "col_tro_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strega del Mare (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "iso_sah_bos"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Yian Garuga il Mefitico (Boss)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "for_tro_bos"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      }
+    ]
+  }
+}

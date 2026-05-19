@@ -1,0 +1,22 @@
+/*
+  CREATO DA:      Tempesta
+  DATA CREAZIONE: 06-08-2009
+*/
+
+// Funzione per Cura Ferite gravi.
+
+#include "NW_I0_SPELLS"
+#include "x2_inc_spellhook"
+
+void main()
+{
+    if (!X2PreSpellCastCode())
+        return;
+    int nSpellID = GetSpellId();
+    object oCaster = GetLastSpellCaster();
+    int nLevel = GetCasterLevel(oCaster);
+    int nRoll = nLevel/2;
+    if(nRoll==0)
+        nRoll=1;
+        spellsCure(3,d8(nRoll), 0, nRoll*8, VFX_IMP_SUNSTRIKE, VFX_IMP_HEALING_S, nSpellID);
+}

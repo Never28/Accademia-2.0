@@ -1,0 +1,2309 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 7
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6783
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 12
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6787
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6782
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6781
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 10
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Panchina"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "panchina"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Panchina"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "panchina1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Panchina"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sedia"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6785
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 8
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6784
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 13
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6788
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 15
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Buco nel Pavimento"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mod_door_che"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Porta segreta"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mod_door_troll"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9128
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 14
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf0"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf10"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf11"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf12"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf13"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf14"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf15"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf16"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf17"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf18"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf19"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf20"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf5"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf6"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf7"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf8"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_pf9"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps0"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps10"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps11"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps12"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps13"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps14"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps15"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps16"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps17"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps18"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps19"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps20"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps5"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps6"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps7"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps8"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Candelabro"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rodon_ps9"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9122
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 22
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 111663
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 11
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "mod_bas_pia"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 14650
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Macigno 1, in piedi verde"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_str_1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Macigno 1, in piedi verde"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_str_2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Macigno 1, in piedi verde"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sasso_rimuovi"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6786
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Barilotto"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_bas_cestino"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Cadavere di Vittima dell'Epidemia"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "quest_23"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Meridiana"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_bas_merid"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Panchina"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_bas_sca_con"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Panchina"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_bas_sca_ok"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Panchina"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_bas_sca_pre"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Panchina"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "scambio"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua di donna"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_statua_atha"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua di donna"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_statua_bald"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua di donna"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_statua_bere"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua di donna"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_statua_dagge"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua di donna"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_statua_loca"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua di donna"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_statua_nask"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Statua, Cyric"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mod_tvt_statua"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_11"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_12"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_13"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_21"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_22"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_23"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_31"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_32"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_33"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_41"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_42"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_43"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_51"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_52"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_53"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_61"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_62"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_63"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_71"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_72"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_73"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_81"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_82"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_83"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_91"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_92"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_93"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_a1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_a2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_a3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_b1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_b2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_b3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_c1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_c2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_c3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_d1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_d2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_d3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_e1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_e2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "traf_e3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_11"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_12"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_13"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_21"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_22"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_23"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_31"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_32"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_33"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_41"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_42"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_43"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_51"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_52"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_53"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_61"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_62"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_63"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_71"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_72"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_73"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_81"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_82"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_83"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_91"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_92"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_93"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_a1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_a2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_a3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_b1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_b2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_b3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_c1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_c2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_c3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_d1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_d2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_d3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_e1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_e2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_e3"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "har_t1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "har_t2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Altare"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "har_t3"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 16
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 19
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5836
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 21
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67585
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 17
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 62485
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 20
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 53151
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 18
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67132
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 66490
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal006"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal007"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal008"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_11"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_12"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_13"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_21"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_22"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_23"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_31"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_32"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_33"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_11"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_12"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_13"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_21"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_22"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_23"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_31"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_32"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_33"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1592
+        }
+      }
+    ]
+  }
+}

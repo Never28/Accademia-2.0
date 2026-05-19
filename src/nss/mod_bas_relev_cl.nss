@@ -1,0 +1,259 @@
+/*
+  CREATO DA:      Tempesta
+  DATA CREAZIONE: 15-07-2009
+*/
+
+// Rilivellare sistemazione classi
+
+void main()
+{
+    object oPC=OBJECT_SELF;
+    object oItem;
+    if (GetLevelByClass(CLASS_TYPE_BLACKGUARD,oPC)<5){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_bg");
+        DestroyObject(oItem,0.0);
+    }
+    if (GetLevelByClass(CLASS_TYPE_HARPER,oPC)<5){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_har_1");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_har_2");
+        DestroyObject(oItem,0.0);
+    }
+    if (GetLevelByClass(CLASS_TYPE_DRAGON_DISCIPLE,oPC)<1){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drred");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drbla");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drgre");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drblu");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drwhi");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_droro");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drarg");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drbro");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drott");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_clas_drram");
+        DestroyObject(oItem,0.0);
+    }
+    if (GetLevelByClass(CLASS_TYPE_BARD,oPC)<1){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_songsle");
+        DestroyObject(oItem,0.0);
+    }
+    if (GetLevelByClass(CLASS_TYPE_BARD,oPC)<10){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_songcon");
+        DestroyObject(oItem,0.0);
+    }
+    if (GetLevelByClass(CLASS_TYPE_BARD,oPC)<20){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_songcha");
+        DestroyObject(oItem,0.0);
+    }
+    if (GetLevelByClass(CLASS_TYPE_BARD,oPC)<40){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_songfea");
+        DestroyObject(oItem,0.0);
+    }
+    if(GetLevelByClass(CLASS_TYPE_PALE_MASTER,oPC)<10){
+        oItem=GetItemPossessedBy(oPC,"mod_clas_sp");
+        DestroyObject(oItem,0.0);
+        SetLocalInt(oPC,"class_special",0);
+    }
+    int nDruidLv = GetLevelByClass(CLASS_TYPE_DRUID,oPC);
+    if(nDruidLv<5){
+        oItem=GetItemPossessedBy(oPC,"poly_ability_1");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"poly_ability_2");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"poly_ability_3");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_deity_mephi");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_deity_sekki");
+        DestroyObject(oItem,0.0);
+    }
+    int nAss = GetLevelByClass(CLASS_TYPE_ASSASSIN,oPC);
+    int nLadro = GetLevelByClass(IP_CONST_CLASS_ROGUE,oPC);
+    if(nAss <1 && nLadro <1){
+        oItem=GetItemPossessedBy(oPC,"trap_disable");
+        DestroyObject(oItem,0.0);
+}
+    if(GetHitDice(oPC)<40){
+        object oSkinOld = GetItemInSlot(INVENTORY_SLOT_CWEAPON_R,oPC);
+        if(oSkinOld!=OBJECT_INVALID){
+            DestroyObject(oSkinOld,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_tm"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_gf"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_sa"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ma"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma1");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma2");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma3");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma4");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma5");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma6");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_ma7");
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_mu"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_mu1");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_mu2");
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_se"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_se1");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_se2");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_se3");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_se4");
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_cl"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ie"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ar"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_si"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_si1");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_si2");
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_so"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_cn"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_cn2");
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_a1"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            SetCreatureWingType(0,oPC);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_a2"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            SetCreatureWingType(0,oPC);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_me"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_do"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ed"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_tt"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_gl"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_cv"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_cv2");
+            DestroyObject(oItem,0.0);
+            oItem=GetItemPossessedBy(oPC,"mod_clas_cv3");
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_al"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_rt"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_mr"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_mk"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_np"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_cz"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_db"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ii"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_gg"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_mm"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_dg"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_es"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_sg"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_te"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_dd"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ms"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_nl"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_pt"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+        if((oItem=GetItemPossessedBy(oPC,"mod_clas_ga"))!=OBJECT_INVALID){
+            DestroyObject(oItem,0.0);
+        }
+    }
+    if (GetLevelByClass(CLASS_TYPE_CLERIC,oPC)<10){
+        oItem=GetItemPossessedBy(oPC,"mod_deity_talos");
+        DestroyObject(oItem,0.0);
+        oItem=GetItemPossessedBy(oPC,"mod_deity_latha");
+        DestroyObject(oItem,0.0);
+    }
+    int stampa1=GetLocalInt(oPC,"class_special");
+    if(GetLocalInt(oPC,"class_special")==0)
+        ExecuteScript("mod_pc_lev_cla",oPC);
+    else
+        ExecuteScript("mod_bas_clas",oPC);
+}
+
+
+

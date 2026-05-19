@@ -1,0 +1,83 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 52
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "6": "",
+      "id": 13469
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "6": "SET -> TUTORIAL\nTIPO -> ANELLO DESTRO\n\nREQUISITI\nLIVELLO RICHIESTO -> 1\nCLASSE -> NESSUNA\nDIVINITA -> NESSUNO\nRAZZA -> NESSUNO"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "6": "TUTORIAL - ANELLO DESTRO",
+      "id": 13468
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 15
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 22
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "set_tut"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "set_tut_and"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 17
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cloth1Color": {
+    "type": "byte",
+    "value": 60
+  },
+  "Cloth2Color": {
+    "type": "byte",
+    "value": 63
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 3
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "6": "SET -> TUTORIAL\nTIPO -> ELMO\n\nREQUISITI\nLIVELLO RICHIESTO -> 1\nCLASSE -> NESSUNA\nDIVINITA -> NESSUNO\nRAZZA -> NESSUNO"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "Leather1Color": {
+    "type": "byte",
+    "value": 107
+  },
+  "Leather2Color": {
+    "type": "byte",
+    "value": 63
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "10": "Elmo Cornuto",
+      "6": "TUTORIAL - ELMO",
+      "8": "Elmo Cornuto",
+      "id": 12851
+    }
+  },
+  "Metal1Color": {
+    "type": "byte",
+    "value": 139
+  },
+  "Metal2Color": {
+    "type": "byte",
+    "value": 56
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 28
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 9
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "set_tut"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "set_tut_elm"
+  }
+}

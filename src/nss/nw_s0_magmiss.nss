@@ -1,0 +1,123 @@
+//::///////////////////////////////////////////////
+//:: Magic Missile
+//:: NW_S0_MagMiss
+//:: Copyright (c) 2001 Bioware Corp.
+//:://////////////////////////////////////////////
+/*
+// A missile of magical energy darts forth from your
+// fingertip and unerringly strikes its target. The
+// missile deals 1d4+1 points of damage.
+//
+// For every two extra levels of experience past 1st, you
+// gain an additional missile.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Preston Watamaniuk
+//:: Created On: April 10, 2001
+//:://////////////////////////////////////////////
+//:: Last Updated By: Preston Watamaniuk, On: May 8, 2001
+
+#include "NW_I0_SPELLS"
+#include "x2_inc_spellhook"
+
+void main()
+{
+
+/*
+  Spellcast Hook Code
+  Added 2003-06-23 by GeorgZ
+  If you want to make changes to all spells,
+  check x2_inc_spellhook.nss to find out more
+
+*/
+
+    if (!X2PreSpellCastCode())
+    {
+    // If code within the PreSpellCastHook (i.e. UMD) reports FALSE, do not run this spell
+        return;
+    }
+
+// End of Spell Cast Hook
+
+
+    //Declare major variables  ( fDist / (3.0f * log( fDist ) + 2.0f) )
+    object oTarget = GetSpellTargetObject();
+    int nCasterLvl = GetCasterLevel(OBJECT_SELF);
+    int nDamage = 0;
+    int nMetaMagic = GetMetaMagicFeat();
+    int nCnt;
+    nCasterLvl=nCasterLvl;
+    if(nCasterLvl<1)
+        nCasterLvl = 1;
+
+
+    int nSave = SAVING_THROW_TYPE_FIRE;
+    int nType = DAMAGE_TYPE_MAGICAL;
+    int nBonus;
+    int nElement = GetLocalInt(OBJECT_SELF,"SapienteElementale");
+    switch(nElement){
+        case 1:
+            nType = DAMAGE_TYPE_BLUDGEONING;
+            break;
+        case 2:
+            nType = DAMAGE_TYPE_COLD;
+            break;
+        case 3:
+            nType = DAMAGE_TYPE_ELECTRICAL;
+            break;
+        case 4:
+            nType = DAMAGE_TYPE_FIRE;
+            nBonus = 10;
+            break;
+    }
+    effect eMissile = EffectVisualEffect(VFX_IMP_MIRV);
+    effect eVis = EffectVisualEffect(VFX_IMP_MAGBLUE);
+    int nMissiles = nCasterLvl;
+    float fDist = GetDistanceBetween(OBJECT_SELF, oTarget);
+    float fDelay = fDist/(3.0 * log(fDist) + 2.0);
+    float fDelay2, fTime;
+    if(!GetIsReactionTypeFriendly(oTarget))
+    {
+        //Fire cast spell at event for the specified target
+        SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELL_MAGIC_MISSILE));
+        //Limit missiles to five
+        //Make SR Check
+        if (!MyResistSpell(OBJECT_SELF, oTarget, fDelay))
+        {
+            //Apply a single damage hit for each missile instead of as a single mass
+            for (nCnt = 1; nCnt <= nMissiles; nCnt++)
+            {
+                //Roll damage
+                int nDam = (Random(3))+1;
+                //Enter Metamagic conditions
+                if (nMetaMagic == METAMAGIC_MAXIMIZE)
+                {
+                      nDam = 3;//Damage is at max
+                }
+                if (nMetaMagic == METAMAGIC_EMPOWER)
+                {
+                      nDam = nDam + nDam/2; //Damage/Healing is +50%
+                }
+                float fDamage = (IntToFloat(nDamage)/100.0)*65.0;
+                nDamage = FloatToInt(fDamage);
+                fTime = fDelay;
+                fDelay2 += 0.1;
+                fTime += fDelay2;
+
+                //Set damage effect
+                effect eDam = EffectDamage(nDam, nType);
+                //Apply the MIRV and damage effect
+                DelayCommand(fTime, ApplyEffectToObject(DURATION_TYPE_INSTANT, eDam, oTarget));
+                DelayCommand(fTime, ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eVis, oTarget));
+                DelayCommand(fDelay2, ApplyEffectToObject(DURATION_TYPE_INSTANT, eMissile, oTarget));
+             }
+         }
+         else
+         {
+            for (nCnt = 1; nCnt <= nMissiles; nCnt++)
+            {
+                ApplyEffectToObject(DURATION_TYPE_INSTANT, eMissile, oTarget);
+            }
+         }
+     }
+}

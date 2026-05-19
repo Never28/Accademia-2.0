@@ -1,0 +1,3786 @@
+{
+  "__data_type": "JRL ",
+  "Categories": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "^Anno: 1369 DR^ \nTi sei allenato per due anni con Gorion e suo figlio. Durante la notte hai avuto uno strano sogno, in cui hai visto il tuo maestro essere vittima di un'imboscata e sacrificare la sua vita per permettere a suo figlio di fuggire dai sicari a lui interessati"
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "^Anno: 1369 DR^ \nTi sei allenato per due anni con Gorion e suo figlio. Durante la notte hai avuto uno strano sogno, in cui hai visto il tuo maestro essere vittima di un'imboscata e sacrificare la sua vita per permettere a suo figlio di fuggire dai sicari a lui interessati.\nAl momento del tuo risveglio, una guardia ti annuncia che ciò che avevi sognato si è avverato: il tuo maestro Gorion è morto, vittima di un imboscata nella foresta. Sconosciuti sono gli assalitori, e non si sa che fine abbia fatto il figlio del tuo maestro, ma una lettera lasciata dal tuo mentore ti informa di vegliare sul ragazzo diretto alla Locanda del braccio amico, per incontrare Jaheira e Minsc, due amici di Gorion. Non ti resta che partire a tua volta per adempire alle ultime volontà del tuo maestro."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "^Anno: 1369 DR^ \nTi sei allenato per due anni con Gorion e suo figlio. Durante la notte hai avuto uno strano sogno, in cui hai visto il tuo maestro essere vittima di un'imboscata e sacrificare la sua vita per permettere a suo figlio di fuggire dai sicari a lui interessati.\nAl momento del tuo risveglio, una guardia ti annuncia che ciò che avevi sognato si è avverato: il tuo maestro Gorion è morto, vittima di un imboscata nella foresta. Sconosciuti sono gli assalitori, e non si sa che fine abbia fatto il figlio del tuo maestro, ma una lettera lasciata dal tuo mentore ti informa di vegliare sul ragazzo diretto alla Locanda del braccio amico, per incontrare Jaheira e Minsc, due amici di Gorion. Non ti resta che partire a tua volta per adempire alle ultime volontà del tuo maestro.\nPortando a termine gli incarichi dei cittadini bisognosi, hai diffuso il tuo nome tra le mura della biblioteca. Le guardie ti hanno consegnato un lasciapassare come riconoscimento al tuo valore che ti permetterà di inoltrarti nella foresta senza problemi."
+                }
+              }
+            },
+            {
+              "__struct_id": 3,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 4
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "^Anno: 1369 DR^ \nTi sei allenato per due anni con Gorion e suo figlio. Durante la notte hai avuto uno strano sogno, in cui hai visto il tuo maestro essere vittima di un'imboscata e sacrificare la sua vita per permettere a suo figlio di fuggire dai sicari a lui interessati.\nAl momento del tuo risveglio, una guardia ti annuncia che ciò che avevi sognato si è avverato: il tuo maestro Gorion è morto, vittima di un imboscata nella foresta. Sconosciuti sono gli assalitori, e non si sa che fine abbia fatto il figlio del tuo maestro, ma una lettera lasciata dal tuo mentore ti informa di vegliare sul ragazzo diretto alla Locanda del braccio amico, per incontrare Jaheira e Minsc, due amici di Gorion. Non ti resta che partire a tua volta per adempire alle ultime volontà del tuo maestro.\nPortando a termine gli incarichi dei cittadini bisognosi, hai diffuso il tuo nome tra le mura della biblioteca. Le guardie ti hanno consegnato un lasciapassare come riconoscimento al tuo valore che ti permetterà di inoltrarti nella foresta senza problemi. \nAffrontando le insidie della foresta, e aiutando la milizia nella lotta contro gli umanoidi che la infestano, sei giunto alla strada del leone, che ti permetterà di raggiungere la Locanda del Braccio Amico."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "[TRAMA - PRINCIPALE]"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_38"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "La popolazione di Elturel sta rischiando di venire sommersa dall'acqua del fiume Chiontar. Non piovendo da parecchio tempo ti è stato chiesto di indagare su tale fenomeno. Voci di corridoio dicono che la fonte dei problemi potrebbe essere alle Rovine di Chelimber, è tuo compito indagare sull'accaduto.",
+                  "6": "Stai aiutando Alddeth in cambio di una lauta ricompensa a eliminare i druidi del bosco ammantato."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Hai eliminato gli elementali dell'acqua presenti all'interno delle Rovine di Chelimber, l'acqua pare abbia smesso il proprio innalzamento. Probabilmente quegli esseri erano la causa di tutti i problemi a Elturel. Non ti resta che dare la buona notizia a Kisame e riscuotere la ricompensa.",
+                  "6": "Hai sconfitto Faldorn e puoi andare a riscuotere la tua ricompensa da Alddeth."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Kisame e la città di Elturel ti sono debitori per aver salvato la popolazione dallo straripamento del fiume Chiontar.",
+                  "6": "Sconfiggendo Faldorn hai instascato una lauta ricompensa."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Acqua Alta a Elturel",
+            "6": "Alddeth e il Bosco Ammantato"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_42"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 2,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Elvithril elfo acquatico devoto di Deep Sashelas ha richiesto il tuo aiuto per sconfiggere i Sahuagin delle acque tortuose. Ha detto però di prestare molta attenzione al loro capo, Iakhovas, che apparentemente è immortale."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Tramite la distruzione delle 4 statue del potere Iakhovas è stato sconfitto e puoi tornare da Elvithril per richiedere la tua ricompensa."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Elvithril e il popolo degli Elfi Acquatici ti ringrazia per la sconfitta dei sahuagin delle acque tortuose."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Acque Tortuose, Acque Benedette dal Mare"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_35"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 3,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Stai aiutando Alddeth in cambio di una lauta ricompensa a eliminare i druidi del bosco ammantato."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai sconfitto Faldorn e puoi andare a riscuotere la tua ricompensa da Alddeth."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Sconfiggendo Faldorn hai instascato una lauta ricompensa."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Alddeth e il Bosco Ammantato"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_21"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Periadoc ti ha mandato in spedizione dai Formian per recuperare antichi vasi che pare siano custoditi nelle loro caverne."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "I vasi erano protetti dalla loro Regina e sconfiggendoli hai potuto entrarne in possesso, non ti resta che riportarli a Periadoc."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Periadoc ha finalmente i suoi vasi e ti ha pagato profumatamente per la tua operazione archeologica."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Antichi Vasi"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_22"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Tarens vuole che vai dai banditi di Taugosz Khosann a recuperare il vino che lui ha rubato."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai recuperato il vino e ora non ti resta che andare da Tarens e dare la buona notizia."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Tarens ti ha ricompensato per aver riportato il vino rubato alla locanda."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Banditi Guastafeste"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_14"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Frane il pastore ha il bestiame avvelenato dai ragni, ti ha chiesto di aiutarlo a trovare un antidoto. Dice che se si riesce a prendere il veleno della regina tutto sarebbe più facile."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso la Regina Ragno e hai estrappolato il veleno, ora devi portarlo a Frane."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "La vecchia moglie di Frane è un'erborista e ha trovato un rimedio grazie al tuo aiuto, ora il bestiame è salvo!"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Bestiame Avvelenato"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_11"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 7,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Mard ti ha detto che non riesce più a pascolare da quando a Candlekeep sono arrivate le \"bestie\", ma a cosa fa riferimento?"
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Le bestie dette da Mard erano dei brutali mutaforma affamati, ora però sono scappati e puoi dare la buona notizia al mandriano."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Mard è tornato a pascolare con il suo gregge e tu puoi goderti la ricompensa"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Bestie di Candlekeep"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_5"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Primoc, il generale dei soldati di Daggerford ha richiesto il tuo intervento per sgominare i briganti che depredano sempre più vicino alla città. Ti ha riferito che il covo del loro capo, un certo Rodon, si trovi oltre Nashkel, verso i Picchi delle Nuvole."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai sconfitto Rodon e puoi portare la buona notizia a Primoc. "
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Daggerford ora è più sicura senza il capo dei briganti Rodon. Sei inoltre venuto a sapere da Primoc che questi ladri erano ben pagati e armati da un signore di nome Sarevock."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Briganti a Daggerford"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_39"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Thell, un pittore di Candlekeep ti ha chiesto un favore: recuperare il quadro rubato a lui dai Lizard."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai dato una bella lezione ai Lizard e hai recuperato il quadro, non ti resta che darlo a Thell."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Recuperare il quadro dai Lizard ti ha fruttato una buona ricompensa da parte di Thell il pittore."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Dipinti Sibillanti"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_6"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 10,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Epxin non permette uno scambio continuo attraverso la via del commercio. Lui e i suoi coboldi infatti attaccano spesso le carovane, depredandole. Ti sei offerto per mettere fine al suo brigantaggio."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai messo a tacere i coboldi e hai ucciso Epxin, non ti resta che dare la buona notizia a Macharto."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Ora che i commerci sono di nuovo tranquilli e Epxin ha smesso di dar fastidio, puoi goderti la ricompensa."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Epxin il Guastafeste"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_20"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 11,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "A Nashkel la popolazione è stremata per colpa dei continui saccheggi da parte degli Gnoll, ti sei offerto per sistemare una volta per tutte il loro capo Ingot"
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Ingot e il suo regno di terrore hanno cessato di esistere, torna a dare la buona notizia."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Ora che Ingot è morto sei diventato un'eroe a Nashkel"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Gnoll Saccheggiatori"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_16"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 12,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Fëanor Eledhwen un chierico di Talos ti ha chiesto di liberare la zona del fiume Chiontar dalla presenza di quegli esseri puzzolenti che sono i Trogloditi. Difatti da quando ci sono loro non si riescono più a svolgere i tipici rituali dedicati al Dio durante i sostizi. Ti è stata promessa una adeguata ricompensa per lo svolgimento della missione."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il capo dei trogloditi, Morghur soprannominato il Grande Immondo. Ora i chierici di Talos potranno tornare a effettuare i loro rituali sacri. Non ti resta che comunicare la notizia a Fëanor Eledhwen."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Fëanor Eledhwen ti ha dato una giusta ricompensa per l'uccisione dei trogloditi, senza il Grande Immondo ora Talos è di nuovo venerato con il dovuto rispetto dai suoi chierici."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Grande Sudiciume in Riva al Fiume"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_34"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 13,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai accettato di uccidere Hurloon e Okling i capi minotauri per scongiurare l'invasione imminente."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Okling il Furioso, non ti resta che recarti a chiudere i conti con l'altro capo minotauri Hurloon, che si trova nelle caverne dei boschi."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Hurloon il Capo Minotauro, non ti resta che recarti a chiudere i conti con Okling il Furioso."
+                }
+              }
+            },
+            {
+              "__struct_id": 3,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 4
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso entrambi i capi minotauri e i clan da essi riuniti sono tornati a essere gruppi isolati, ora puoi tornare da Dichal a dare la buona notizia"
+                }
+              }
+            },
+            {
+              "__struct_id": 4,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 5
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Dichal ti ha ricompensato per aver ucciso i due condottieri minotauri, ora Beregost dorme sogni tranquilli."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "I Clan dei Minotauri"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_12"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 14,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai accettato di riportare a Pereppi il bastone in possesso a Grom, uno spietato druido Bugbear."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai sconfitto Grom, ora hai con te il bastone, non ti resta che riportarglielo."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Pereppi ha finalmente di nuovo il suo bastone rubatogli da Grom e tu hai ricevuto una buona ricompensa."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Il Bastone di Pereppi"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_28"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 15,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai incontrato un sacerdote vicino al cimitero di Candlekeep che ti avvisava della presenza di creature non morte.\nHai accetato di portargli 20 essenze di non morti per far tornare sacro quel luogo."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "La gente di Candlekeep è molto contenta ora che può tornare a pregare i propri cari al cimitero."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Il Cimitero di Candlekeep"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_26"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 16,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Luthien, una sacerdotessa di Mielikki di Baldur's Gate ti ha arruolato come mercenario per mettere fine alla blasfemia che avviene su un'isola a largo di Candlekeep.\nPare che i suoi abitanti siano fedeli a un culto macabro: farsi infettare dal licantropismo e venerare Malar. \nE' tuo compito fermare queste pratiche e riportare l'isola alla normalità."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il capo della tribù che venerava Malar e predicava il Licantropismo.\nIl suo nome era Sengal ed era un'Halfling Lupo Mannaro.\nOra puoi tornare da Luthien e comunicarle della liberazione dell'Isola."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Luthien ti ha ringraziato a nome di tutta la gilda dell'Ordine del Corno dell'Unicorno per aver sconfitto Sengal e il Licantropismo dell'Isola."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Il Popolo del Sangue Nero"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_33"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 17,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Timonalen, un mago sopravvissuto a una missione per recuperare un tomo posseduto dal Supremo Ogre vuole che tu concluda la missione per lui e vendichi i suoi compagni."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai con te il Tomo, non ti resta che riportarlo a Timonalen."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Timonalen ti ha ringraziato per aver vendicato i suoi compagni e aver riportato l'importante Tomo."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Il Tomo e l'Ogre"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_17"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 18,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Coran il sindaco di Beregost desidera che tu elimini le viverne che stanno infestando il Bosco Ammantato, come prova dovrai portargli la testa di quella che pare essere la più grossa."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai trovato la viverna più grossa e puoi portarne la testa al sindaco per ricevere la tua ricompensa."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Il sindaco ti ringrazia vivamente per aver liberato il Bosco da quelle spietate creature draconiche."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Invasione di Viverne"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_24"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 19,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Dian ti ha chiesto il favore di liberargli la casa dai topi, ora non ti resta che svolgere il tuo lavoro."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai sgomberato l'area dai topi, torna a parlare con Dian in città."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Dian ti ha dato una ricompensa per aver ucciso tutti i topi, ben fatto."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "La Casa Infestata dai Topi"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_1"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 20,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Fingolfin Falasson un arpista di baldur's gate ti ha reclutato come mercenario per un'incarico.\nIl tuo scopo sarà uccidere la regina degli Yuan-ti della foresta di Candlekeep: Tsuchinoko no Orochi."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Tsuchinoko no Orochi e puoi riscattare la ricompensa da Fingolfin."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai riscosso la tua ricompensa per avere eliminato la minaccia Yuan-ti che gravava sulla provincia di Candlekeep."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "La Vendetta Vien Strisciando"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_32"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 21,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "C'è una leggenda a Candlekeep che narra che nelle cripte abbandonate nella foresta vi abitino i non morti; C'è addirittura chi sostiene che esista un vecchio eroe risorto e che abbia reso il suolo maledetto. Steim ti ha chiesto di indagare per conto della chiesa di Ogma."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "La leggenda era vera, uccidendo l'eroe risorto inoltre la maledizione è stata interrotta."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Steim ti ha ringraziato a nome della chiesa di Ogma per aver cancellato la maledizione dalla vecchia cripta. Pare che l'eroe risorto fosse un ex guerriero di Candlekeep di nome di Settra, e ora finalmente potrà godere della pace eterna."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Le Cripte di Candlekeep"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_4"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 22,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai accettato di aiutare Gimli a ripulire le miniere dai troll che le infestano, dovrai fare attenzione però, i troll non sono nemici facili."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Kershalt il Re dei Troll, non ti resta di tornare a dare la buona notizia a Kimli."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Kimli ti ha dato una ricompensa a nome dei minatori di Nashkel, le miniere sono finalmente libere dai Troll!"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Le Miniere Infestate"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_19"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 23,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Thal, un'emissario proveniente da Nashkel, ha richiesto il tuo aiuto per indagare sui Giganti del Gelo dei Picchi delle Nuvole. Secondo informatori starebbero architettando un rituale divino in grado di glaciare lentamente tutto il Faerun. E' tuo compito scoprire cosa c'è di vero in tutto ciò."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Pare che la sacerdotessa più potente dei Giganti del Gelo stesse davvero progettando qualcosa. Il rituale in ogni caso è stato fermato e quindi puoi ritornare da Thal a dare la buona notizia."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Thal ti ha ringraziato a nome di Nashkel e del Faerun. Non si sa se il rituale in atto fosse davvero quello messo in giro da alcune voci, ma di sicuro ora non è più un problema."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "L'Era Glaciale"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_40"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 24,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Roirry, un mercante di Nashkel ci ha chiesto di placcare la ferocità degli Orsi a Est della città. Le provviste per colpa loro infatti stanno calando drasticamente."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Sei riuscito a placcare la rabbia degli Orsi, ora non ti resta che dirlo a Roirry."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Roirry ti ringrarzia per aver salvato le provviste dagli orsi, ora la gente di Nashkel può dormire sogni più tranquilli."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Orsi Affamati"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_18"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 25,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Wallen e il suo team hanno avuto l'incarico di ripulire le fogne intasate di Baldur's. Purtroppo il loro lavoro è ostacolato da strani esseri melmosi che corrodono ciò che toccano."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai \"ucciso\" la bestia più strana che tu abbia mai visto; una Gelatina enorme che inghiottiva tutto ciò che passava per le fogne. Con la sua \"fine\" hai risanato definitivamente le fogne dagli esseri melmosi."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Grazie alla sconfitta degli strani esseri gelatinosi Wallen e il suo team possono finalmente depurare le fogne di Baldur's."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Pulizia delle Fogne"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_25"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 26,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Thance, un potente alchimista di Baldur's Gate vuole il corpo del capo dei Troll della Fanghiglia. Pare che il loro corpo emani un gas acido che potrebbe essere isolato per ricavarne potenti armi."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai sconfitto Yian Garuga e con lui hai il corpo che serve a Thance per le sue ricerche."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Thance ti ha dato un' ottima ricompensa per il corpo di Yuan Garuga. Ora può isolare l'acido dal suo corpo e ricavarne delle armi."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Ricerche Militari"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_37"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 27,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Nel tempio del mattino i chierici e un gruppo di druidi del posto stanno studiando un pozione per rendersi immune al terribile sguardo dei basilischi, ti sei offerto di portare 20 loro spine per poter sviluppare l'antidoto."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai aiutato i \"ricercatori\" portando le 20 spine, forse finalmente troveranno una soluzione allo sguardo dei basilischi."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Ricerche sui Basilischi"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_27"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 28,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai accettato di Kalissa di uccidere i 4 condottieri giganti delle colline di Beregost."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin, ti restano 3 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Re degli Ettin, ti restano 3 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 3,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 4
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore delle Caverne, ti restano 3 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 4,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 5
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Distruttore delle Caverne, ti restano 3 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 5,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 6
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin e il Re Ettin, ti restano 2 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 6,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 7
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin e il Signore delle Caverne, ti restano 2 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 7,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 8
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin e il Distruttore delle Caverne, ti restano 2 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 8,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 9
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin, il Re degli Ettin, e il Signore delle Caverne, non ti resta che uccidere l'ultimo gigante."
+                }
+              }
+            },
+            {
+              "__struct_id": 9,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 10
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin, il Re degli Ettin, e il Distruttore delle Caverne, non ti resta che uccidere l'ultimo gigante."
+                }
+              }
+            },
+            {
+              "__struct_id": 10,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 11
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Re degli Ettin e il Signore delle Caverne, ti restano 2 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 11,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 12
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Re degli Ettin e il Distruttore delle Caverne, ti restano 2 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 12,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 13
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Re degli Ettin, il Signore delle Caverne e il Distruttore delle Caverne, non ti resta che uccidere l'ultimo gigante."
+                }
+              }
+            },
+            {
+              "__struct_id": 13,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 14
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore delle Caverne e il Distruttore delle Caverne, ti restano 2 giganti da uccidere."
+                }
+              }
+            },
+            {
+              "__struct_id": 14,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 15
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso il Signore degli Ettin, il Signore delle Caverne, e il Distruttore delle Caverne, non ti resta che uccidere l'ultimo gigante."
+                }
+              }
+            },
+            {
+              "__struct_id": 15,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 16
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso tutti i giganti, ora non ti resta che tornare a parlare con Kalissa e ricevere la meritata ricompensa."
+                }
+              }
+            },
+            {
+              "__struct_id": 16,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 17
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Il \"signore\" di Kalissa ti ha ricompensato per averlo aiutato ad aumentare il suo potere."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Richieste Oscure"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_13"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 29,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Le navi di daggerford sono messe ferro e fuoco, ormai viaggiare per il mare delle spade è impossibile. Garen, l'ammiraglio di Daggerford vuole che indaghi sulla scomparsa delle barche. Ti ha detto ti andare nel porto e contattare il Capitano di Porto per avere una imbarcazione per le ricerche."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Le navi erano distrutte da una Strega che soggiogava i sahuagin per depredare le imbarcazioni salpate dal porto di Daggerford. Non ti resta che dare la notizia della sua sconfita a Garen."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Garen ha apprezzato il lavoro svolto e ha scoperto che quella strega era la stessa che abitava nelle paludi limitrofe e che era stata scacciata dall'esercito anni prima. Per fortuna ora non darà più fastidio al popolo di Daggerford. "
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Scorribande nel Mare delle Spade"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_41"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 30,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Skalmad e hai trovato delle chiavi, probabilmente aprono le celle delle sue prigioni. Forse conviene una esplorazione per vedere se si può trovare qualcosa o qualcuno al loro interno."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai trovato e liberato Juston, un generale di Daggerford fatto prigioniero da Skalmad durante un'imboscata."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Skalmad, Terrore della Profondità"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_36"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 31,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Pare che Snarsnik il Re dei goblin stia importunando non poco i contadini di Candlekeep con il suoi scagnozzi, è giunta l'ora di fargliela pagare."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Ora che hai ucciso Snarsnik puoi andare dai contadini a darti ciò che meriti."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "I contadini di Candlekeep sono tornati alle loro fattorie e hai potuto raccimolare una buona ricompensa."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Skarsnik il Re Goblin"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_2"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 32,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Mutanim e l'incantesimo che aveva creato per pietrificare le persone ha cessato di esistere."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Statue Troppo Realistiche"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_10"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 33,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Pare che nelle caverne dei Formian ci siano ulteriori tunnel che portano a altre zone nascoste. Nel vedere un corpo straziato all'ingresso di uno di questi il tuo sangue si congela ma la curiosità di saperne di più ti spingono a calarti ancora."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Le caverne portavano a una città scorpionide, la tua sete di conoscenza è placata."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Strane Creature"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_23"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 34,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Podo Bleecker famoso commerciante di Baldur's Gate ha notato strani avvenimenti all'interno alla Gilda dei Mercanti.\nPare che i capi della gilda stiano accumulando fondi segreti per scopi non chiari. \nPodo ti ha quindi supplicato di investigare e scoprire il mistero. "
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Tutte le persone della gilda erano state uccise e sostituite da replicanti. \nHai ucciso il capo di questi Doppelganger replicanti, un certo Ixidor.\nOra puoi tornare da Podo e dire il resoconto della tua investigazione."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Ora la gilda è libera ma è senza i suoi funzionari. \nPodo Bleecker ora cercherà nuove persone per ricreare la gilda.\nIl tuo fantastico lavoro da investigatore è stato naturalmente premiato con una giusta ricompensa."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Strani Avvenimenti alla Gilda dei Mercanti"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_31"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 35,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai accettato di uccidere Kiki-Jiki e Sek'Kuar, rispettivamente i due capi degli accampamenti della Strada del Leone. Kromar ti ha suggerito di prestare attenzione perchè i due hanno inventato una pozione che ingigantisce il proprio corpo. E' probabile perciò che questa stregoneria la detengano anche i loro sudditi."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Kiki-Jiki, il capo dei goblin della Strada del Leone, non ti resta che recarti a chiudere i conti con Sek'Kuar"
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Sek'Kuar, il capo degli Orchi della Strada del Leone, non ti resta che recarti a chiudere i conti con Kiki-Jiki"
+                }
+              }
+            },
+            {
+              "__struct_id": 3,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 4
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Kiki-Jiki e Sek'Kuar e con loro il loro confabulare contro Candlekeep, ora puoi tornare da Kromar"
+                }
+              }
+            },
+            {
+              "__struct_id": 4,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 5
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Kromar ti è debitore per il servizio concesso a Candlekeep. Kiki-Jiki e Sek'Kuar non disturberanno più"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Stregonerie Verdi"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_8"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 36,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Stai imparando il funzionamento delle Quest di Accademia, ti è stato chiesto da parte di un PNG di rompere il Manichino. Quando completerai questa operazione potrai tornare da lui a parlargli."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai rotto il Manichino e ora puoi completare la missione dal PNG."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai completato la Quest TUTORIAL. Ricorda sempre le seguenti informazioni:\n1) Parla sempre col PNG di una Quest che stai per fare in gruppo.\n2) Fare una Quest in gruppo o da soli da la stessa ricompensa e gli stessi punti esperienza.\n3) Buon Fortuna!"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Tutorial - QUEST"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_30"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 37,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Bulbo Bleecker, il cantastorie, ha sentito degli strani ululati provenienti dalla zona del Tempio a Beregost. Secondo lui i lupi della zona non sono comuni lupi, per questo vuole che tu scopra cosa sta succedendo prima che il loro branco attacchi la città."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "I lupi di beregost erano enormi e alcuni di loro avevano notevoli somiglianze coi vampiri. Ora che il loro capobranco è stato ucciso pare abbiano abbandonato la zona."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Bulbo Bleecker è rimasto colpito dalla storia dei lupi e vuole narrare a tutti la tua storia, sei famoso a Beregost ora."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Ululati dalle Caverne"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_9"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 38,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Aztarok ha ucciso il fratello si Sabel per la quale hai offerto di aiutarla nella vendetta."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Aztarok è morto e ora non resta che dare la notizia a Sabel"
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Sabel ti ha ringraziato a nome suo e dell'anima di suo fratello che ora può riposare in pace."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Un Bugbear Insolente"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_7"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 39,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "A Candlekeep la casa di Loriandrick è stata assediata da mucche e galline completamente impazzite, ti sei preso l'impegno di liberare la casa e portare una prova della loro uccisione. (Porta 4 Piume di Gallina e 4 Ossa di Mucca)"
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai liberato la casa di Loriandrick dalle bestie impazzite."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Una Casa Impazzita"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_29"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 40,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Il capo delle guardie Elros ti ha mandato a uccidere il capo degli Orchi Uruk che sembra progettare un'attacco a Candlekeep."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ucciso Uruk e gli orchi sembrano già in panico senza un capo a dirigerli, non ti resta che dare la buona notizia a Elros."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Uccidendo Uruk ora il popolo di Candlekeep e soprattutto la sua milizia sembrano molto più tranquilli."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Uruk Minaccia Candlekeep"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_3"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 41,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Un gruppo di hobgoblin ha rubato gli stivali a Zhurlong, ora il piccolo halfling li rivuole indietro."
+                }
+              }
+            },
+            {
+              "__struct_id": 1,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 2
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Hai ritrovato gli stivali nel corpo del capo degli hobgoblin ora puoi riportarli a Zhurlong."
+                }
+              }
+            },
+            {
+              "__struct_id": 2,
+              "End": {
+                "type": "word",
+                "value": 1
+              },
+              "ID": {
+                "type": "dword",
+                "value": 3
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "6": "Zhurlong ti ha dato una buona ricompensa per avergli riportato gli stivali."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "6": "Zhurlong e gli Stivali"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "quest_15"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      }
+    ]
+  }
+}

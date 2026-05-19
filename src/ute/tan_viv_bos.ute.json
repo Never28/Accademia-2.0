@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 456
+        },
+        "CR": {
+          "type": "float",
+          "value": 34.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "set_38_bos"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 1
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "6": "Viverna Antica (Boss)"
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 1
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": "mod_inc_ent"
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": "mod_inc_exh"
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": "mod_inc_exi"
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": "mod_inc_hea"
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": "mod_inc_use"
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 2
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 0
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 1
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 1800
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "tan_viv_bos"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "tan_viv_bos"
+  }
+}
