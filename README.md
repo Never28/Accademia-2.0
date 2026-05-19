@@ -10,5 +10,7 @@ If any changes are made to the module from the toolset, remember to save and run
 
 Useful resources:
 https://www.reddit.com/r/neverwinternights/comments/1d8sjj6/how_do_you_collaborate_to_build_modules_in_aurora/
+
 https://github.com/Finaldeath/overhaul
+
 https://github.com/The-Frozen-North/tfn-module
