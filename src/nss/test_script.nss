@@ -1,0 +1,4 @@
+void main()
+{
+//Test script
+}

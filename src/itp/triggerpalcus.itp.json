@@ -7,6 +7,17 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
+          "value": 5
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1082
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
           "value": 6
         },
         "LIST": {
@@ -117,17 +128,6 @@
         "STRREF": {
           "type": "dword",
           "value": 6687
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ID": {
-          "type": "byte",
-          "value": 5
-        },
-        "STRREF": {
-          "type": "dword",
-          "value": 1082
         }
       },
       {

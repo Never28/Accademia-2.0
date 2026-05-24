@@ -18,11 +18,11 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
-          "value": 12
+          "value": 22
         },
         "STRREF": {
           "type": "dword",
-          "value": 6787
+          "value": 111663
         }
       },
       {
@@ -40,11 +40,357 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
-          "value": 5
+          "value": 8
         },
         "STRREF": {
           "type": "dword",
-          "value": 6781
+          "value": 6784
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal006"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal007"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "zep_crystal008"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sek_d4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_11"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_12"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_13"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_21"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_22"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_23"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_31"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_32"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_evil_33"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_11"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_12"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_13"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_21"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_22"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_23"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_31"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_32"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statua, Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tower_good_33"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1592
         }
       },
       {
@@ -100,60 +446,71 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
-          "value": 8
-        },
-        "STRREF": {
-          "type": "dword",
-          "value": 6784
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ID": {
-          "type": "byte",
-          "value": 13
-        },
-        "STRREF": {
-          "type": "dword",
-          "value": 6788
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ID": {
-          "type": "byte",
-          "value": 15
+          "value": 11
         },
         "LIST": {
           "type": "list",
           "value": [
             {
               "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Buco nel Pavimento"
-              },
               "RESREF": {
                 "type": "resref",
-                "value": "mod_door_che"
+                "value": "mod_bas_pia"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 14650
               }
             },
             {
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "Porta segreta"
+                "value": "Macigno 1, in piedi verde"
               },
               "RESREF": {
                 "type": "resref",
-                "value": "mod_door_troll"
+                "value": "col_str_1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Macigno 1, in piedi verde"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "col_str_2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Macigno 1, in piedi verde"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sasso_rimuovi"
               }
             }
           ]
         },
         "STRREF": {
           "type": "dword",
-          "value": 9128
+          "value": 6786
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 12
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6787
         }
       },
       {
@@ -627,71 +984,38 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
-          "value": 22
-        },
-        "STRREF": {
-          "type": "dword",
-          "value": 111663
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ID": {
-          "type": "byte",
-          "value": 11
+          "value": 15
         },
         "LIST": {
           "type": "list",
           "value": [
             {
               "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Buco nel Pavimento"
+              },
               "RESREF": {
                 "type": "resref",
-                "value": "mod_bas_pia"
-              },
-              "STRREF": {
-                "type": "dword",
-                "value": 14650
+                "value": "mod_door_che"
               }
             },
             {
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "Macigno 1, in piedi verde"
+                "value": "Porta segreta"
               },
               "RESREF": {
                 "type": "resref",
-                "value": "col_str_1"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Macigno 1, in piedi verde"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "col_str_2"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Macigno 1, in piedi verde"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sasso_rimuovi"
+                "value": "mod_door_troll"
               }
             }
           ]
         },
         "STRREF": {
           "type": "dword",
-          "value": 6786
+          "value": 9128
         }
       },
       {
@@ -1891,11 +2215,33 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
+          "value": 13
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6788
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
           "value": 16
         },
         "LIST": {
           "type": "list",
           "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 17
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 62485
+              }
+            },
             {
               "__struct_id": 0,
               "ID": {
@@ -1916,17 +2262,6 @@
               "STRREF": {
                 "type": "dword",
                 "value": 67585
-              }
-            },
-            {
-              "__struct_id": 0,
-              "ID": {
-                "type": "byte",
-                "value": 17
-              },
-              "STRREF": {
-                "type": "dword",
-                "value": 62485
               }
             },
             {
@@ -1962,346 +2297,11 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
-          "value": 9
-        },
-        "LIST": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "zep_crystal005"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "zep_crystal006"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "zep_crystal007"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Sai cosa è successo agli altri druidi che erano partiti in cerca di risposte?"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "zep_crystal008"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_1"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_2"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_3"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_4"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_d1"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_d2"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_d3"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "sek_d4"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_11"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_12"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_13"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_21"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_22"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_23"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_31"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_32"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_evil_33"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_11"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_12"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_13"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_21"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_22"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_23"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_31"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_32"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Statua, Cyric"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tower_good_33"
-              }
-            }
-          ]
+          "value": 5
         },
         "STRREF": {
           "type": "dword",
-          "value": 1592
+          "value": 6781
         }
       }
     ]

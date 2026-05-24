@@ -842,539 +842,6 @@
         "__struct_id": 0,
         "ID": {
           "type": "byte",
-          "value": 5
-        },
-        "LIST": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Allip x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_all"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear Arciere x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_bua"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear Elite x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_bue"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear Eroe x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_buh"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear Sciamano x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_bus"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear Sciamano/Arciere/Normale"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_bum"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear Sciamano/Elite/Eroe"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_bux"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Bugbear x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_bug"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Falco / Lupo / Tasso"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_flt"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Falco x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_fal"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Galline Assassine x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_ass_gal"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Ghoul x2 Allip x1"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_g_a"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin Arciere x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_gob_arc"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin C/M/W"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_gob_caw"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin Capitano x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_gob_cap"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin G/A/W"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_gob_gaw"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin Giganti x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "str_leo_gob"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin Guerriero x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_gob_war"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Goblin Mago x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_gob_wiz"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Lizard Balestriere x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "ter_liz_bal"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Lizard Capitano x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "ter_liz_cap"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Lizard Guerriero x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "ter_liz_gue"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Lizard Ranger x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "ter_liz_ran"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Lizard Sciamano x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "ter_liz_lsc"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Lupi x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_lup"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Mucca Assassine x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_ass_muc"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Mucca x1 Galline Assassine x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_ass_g_m"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Mummia x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_mum"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Mutaforma U/H/M"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "gro_mut_uhm"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Ombre x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_omb"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Orchi Giganti x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "str_leo_orc"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Orco Guerriero x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_orc_war"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Orco S/G/T "
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_orc_sgt"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Orco Sciamano x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_orc_sci"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Orco Tiratore x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_orc_tir"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Orco Veterano x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cav_orc_cap"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Puma x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_pum"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Ratto x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cas_rat"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Scheletro Guerriero x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cri_war"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Scheletro Mago x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cri_wiz"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Scheletro S/M/G"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cri_smg"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Scheletro Sacerdote x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cri_sac"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Scheletro x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_sch"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Tassi x2/x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_for_tas"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Zombie Guerriero x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_zog"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Zombie Tiranno della Nebbia x2"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_zot"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Zombie x3"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "can_cim_zom"
-              }
-            }
-          ]
-        },
-        "STRREF": {
-          "type": "dword",
-          "value": 5543
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ID": {
-          "type": "byte",
           "value": 7
         },
         "LIST": {
@@ -2341,6 +1808,539 @@
         "STRREF": {
           "type": "dword",
           "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Allip x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_all"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Arciere x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bua"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Elite x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bue"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Eroe x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_buh"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bus"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Sciamano/Arciere/Normale"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear Sciamano/Elite/Eroe"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bux"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bugbear x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_bug"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Falco / Lupo / Tasso"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_flt"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Falco x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_fal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Galline Assassine x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_ass_gal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ghoul x2 Allip x1"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_g_a"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Arciere x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_arc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin C/M/W"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_caw"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_cap"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin G/A/W"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_gaw"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Giganti x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_leo_gob"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Goblin Mago x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_gob_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Balestriere x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_bal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Capitano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_cap"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Guerriero x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_gue"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Ranger x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_ran"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lizard Sciamano x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ter_liz_lsc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Lupi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_lup"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mucca Assassine x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_ass_muc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mucca x1 Galline Assassine x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_ass_g_m"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mummia x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_mum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mutaforma U/H/M"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "gro_mut_uhm"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ombre x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_omb"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orchi Giganti x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "str_leo_orc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco S/G/T "
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_sgt"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Sciamano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_sci"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Tiratore x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_tir"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Orco Veterano x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "cav_orc_cap"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Puma x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_pum"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ratto x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cas_rat"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro Guerriero x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_war"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro Mago x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_wiz"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro S/M/G"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_smg"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro Sacerdote x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cri_sac"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Scheletro x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_sch"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Tassi x2/x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_for_tas"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Zombie Guerriero x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_zog"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Zombie Tiranno della Nebbia x2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_zot"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Zombie x3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "can_cim_zom"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5543
         }
       }
     ]

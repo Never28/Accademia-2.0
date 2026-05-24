@@ -5,17 +5,6 @@
     "value": [
       {
         "__struct_id": 0,
-        "ID": {
-          "type": "byte",
-          "value": 5
-        },
-        "STRREF": {
-          "type": "dword",
-          "value": 6734
-        }
-      },
-      {
-        "__struct_id": 0,
         "LIST": {
           "type": "list",
           "value": [
@@ -83,9 +72,102 @@
       },
       {
         "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6734
+        }
+      },
+      {
+        "__struct_id": 0,
         "LIST": {
           "type": "list",
           "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 6
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_met_1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_met_2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_met_3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_met_4"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_met_5"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_met_6"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6736
+              }
+            },
             {
               "__struct_id": 0,
               "ID": {
@@ -95,6 +177,66 @@
               "STRREF": {
                 "type": "dword",
                 "value": 201
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 7
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_pie_004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_pie_1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_pie_2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Porta"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dor_auto_pie_3"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6737
               }
             },
             {
@@ -199,148 +341,6 @@
               "STRREF": {
                 "type": "dword",
                 "value": 6738
-              }
-            },
-            {
-              "__struct_id": 0,
-              "ID": {
-                "type": "byte",
-                "value": 6
-              },
-              "LIST": {
-                "type": "list",
-                "value": [
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_met_1"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_met_2"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_met_3"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_met_4"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_met_5"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_met_6"
-                    }
-                  }
-                ]
-              },
-              "STRREF": {
-                "type": "dword",
-                "value": 6736
-              }
-            },
-            {
-              "__struct_id": 0,
-              "ID": {
-                "type": "byte",
-                "value": 7
-              },
-              "LIST": {
-                "type": "list",
-                "value": [
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_pie_004"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_pie_1"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_pie_2"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Porta"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "dor_auto_pie_3"
-                    }
-                  }
-                ]
-              },
-              "STRREF": {
-                "type": "dword",
-                "value": 6737
               }
             }
           ]
